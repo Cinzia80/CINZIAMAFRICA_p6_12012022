@@ -2,12 +2,12 @@
   "name": "back",
   "version": "1.0.0",
   "description": "API sécurisée pour une application d'avis gastronomiques",
-  "main": "derver.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Cinzia Mafrica",
   "license": "ISC",
   "dependencies": {
     "angular": "^1.8.2",
