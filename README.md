@@ -1,19 +1,32 @@
 API sécurisée pour une application d'avis gastronomiques
+=========================================
 
 *LANCEMENT BACKEND* => Ouvrir le terminal
+
 *Generation du file package.json*
+-----------
+
+```
 cd back
 npm init
+```
 
 
 *Pour démarrer NODE.JS* => Ouvrir le terminal
+---------------------
+
+```
 cd back
 npm install -g nodemon
 nodemon server
+```
 
 *Connexion a la base de doneés et Mongo DB* => Ouvrir le terminal
-    cd back
-npm install angular 
+------------------
+
+```
+cd back
+npm install angular
 npm install express => *creer file app.js*
 npm install mongoose
 npm install mongoose-unique-validator
@@ -22,14 +35,18 @@ npm install jsonwebtoken
 npm install multer
 npm install dotenv
 npm install helmet
-
+```
 
 
 *Installer globalment*
+---------------------------
+
+```
 npm install -g @angular/cli
 ng new [PROJET NAME]
 cd [PROJET NAME]
 ng serve
+```
 
 
 
