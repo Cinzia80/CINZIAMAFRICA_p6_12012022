@@ -1,83 +1,121 @@
 [{
-	"sauce": [{
-			"_id": "61c2faf67bed6fbbf40800c5",
-			"userId": "61c0c2f8d7699dc88c047428",
-			"name": "sauce 1",
-			"manufacturer": "dsfsdf",
-			"description": "dsfsdf",
-			"mainPepper": "dfd",
-			"imageUrl": "http://localhost:63752",
-			"heat": 2,
-			"likes": 1,
-			"dislikes": 1,
-			"usersLiked": [
-				"6203f080a996fa7fa08434f6"
-			],
-			"usersDisliked": [
-				"61c2fb077bed6fbbf40800c8"
-			],
-			"__v": 0
-		},
-
-		{
-			"_id": "61c2fe78b9bcb1f4ae57308b",
-			"userId": "61c2fb077bed6fbbf40800c8",
-			"name": "dsfds",
-			"manufacturer": "fddfd",
-			"description": "fdfd",
-			"mainPepper": "dfdf",
-			"imageUrl": "http://localhost:3000/images/test_1640169080603.jpg",
-			"heat": 2,
-			"likes": 1,
-			"dislikes": 0,
-			"usersLiked": [
-				"6203f080a996fa7fa08434f6"
-			],
-			"usersDisliked": [
-				"61c2fb077bed6fbbf40800c8"
-			],
-			"__v": 0
-		},
-
-
-		{
-			"_id": "61c2fe78b9bcb1f4ae57308b",
-			"userId": "61c2fb077bed6fbbf40800c8",
-			"name": "dsfds",
-			"manufacturer": "fddfd",
-			"description": "fdfd",
-			"mainPepper": "dfdf",
-			"imageUrl": "http://localhost:3000/images/test_1640169080603.jpg",
-			"heat": 2,
-			"likes": 1,
-			"dislikes": 0,
-			"usersLiked": [
-				"6203f080a996fa7fa08434f6"
-			],
-			"usersDisliked": [
-				"61c2fb077bed6fbbf40800c8"
-			],
-			"__v": 0
-		},
-
-		{
-			"_id": "61c2fe78b9bcb1f4ae57308c",
-			"userId": "61c2fb077bed6fbbf40800c9",
-			"name": "sauce",
-			"manufacturer": "fddfd",
-			"description": "fdfd",
-			"mainPepper": "dfdf",
-			"imageUrl": "./front/assets/images/sauce.jpg",
-			"heat": 2,
-			"likes": 1,
-			"dislikes": 0,
-			"usersLiked": [
-				"6203f080a996fa7fa08434f6"
-			],
-			"usersDisliked": [
-				"61c2fb077bed6fbbf40800c8"
-			],
-			"__v": 0
-		}
-	]
+  "_id": {
+    "$oid": "620aa5168473d668f8fdf28a"
+  },
+  "userId": "620565c5224185e69a1fc67a",
+  "name": "CHUTNEY",
+  "manufacturer": "MEXICO",
+  "description": "Il s'agit d'une sauce d'origine mexicaine utilisée principalement pour assaisonner la viande ou pour la faire mariner avant la cuisson. Il est fabriqué en mélangeant des poivrons, des piments, de l'ail, du sel, des épices et du jus de citron ou du vinaigre.",
+  "mainPepper": "Epices",
+  "imageUrl": "http://localhost:3000/images/chutney.jpg1645458760601.jpg",
+  "heat": 2,
+  "likes": 1,
+  "dislikes": 0,
+  "usersLiked": [
+    "620565c5224185e69a1fc67a"
+  ],
+  "usersDisliked": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620aa55a8473d668f8fdf28d"
+  },
+  "userId": "620565c5224185e69a1fc67a",
+  "name": "Adobo",
+  "manufacturer": "India",
+  "description": "Il s'agit d'une sauce indienne à base de fruits ou de légumes, à laquelle on ajoute des oignons, du tamarin, du gingembre, de l'ail et du piment. Le tout est cuit dans un mélange de vinaigre, de sel et de sucre. Parmi les plus connues, on trouve la pomme et la mangue.",
+  "mainPepper": "Gingembre",
+  "imageUrl": "http://localhost:3000/images/adobo.jpg1645458685647.jpg",
+  "heat": 1,
+  "likes": 0,
+  "dislikes": 0,
+  "usersLiked": [],
+  "usersDisliked": [
+    ""
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620aa6bb8473d668f8fdf291"
+  },
+  "userId": "620565c5224185e69a1fc67a",
+  "name": "Tabasco",
+  "manufacturer": "MEXICO",
+  "description": "L'une des sauces piquantes les plus connues utilisées en cuisine est la Tabasco, qui tire son nom de l'État mexicain de Tabasco. Tout le monde ne le sait peut-être pas, mais la recette originale est protégée par un brevet détenu par la société McIlhenny. Les piments (uniquement Capsicum frutescens variété Tabasco) - soigneusement sélectionnés en fonction de leur couleur - sont broyés et macérés, puis laissés au repos dans des fûts spéciaux.\n\n",
+  "mainPepper": "PIMENT",
+  "imageUrl": "http://localhost:3000/images/tabasco.jpg1645419261588.jpg",
+  "heat": 5,
+  "likes": 0,
+  "dislikes": 1,
+  "usersLiked": [],
+  "usersDisliked": [
+    "620565c5224185e69a1fc67a"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620aa6fb8473d668f8fdf294"
+  },
+  "userId": "620565c5224185e69a1fc67a",
+  "name": "SALSA CHILI",
+  "manufacturer": "MEXICO",
+  "description": "L'une des sauces piquantes par excellence est le piment, qui est fabriqué à partir de piments. Notoirement épicé dans la cuisine mexicaine, il est utilisé dans tout, des tacos et tortillas au riz et aux salades. Il est imbattable avec le veau et le bœuf. Particulièrement savoureux, il est préparé avec des oignons, des tomates, des piments et l'ajout de clous de girofle et de cannelle, ainsi que de sucre, ce qui le rend agréable et doux au palais.\n\n",
+  "mainPepper": "PIMENT",
+  "imageUrl": "http://localhost:3000/images/SALSA_CHILI.jpg1645130624154.jpg",
+  "heat": 6,
+  "likes": 1,
+  "dislikes": 0,
+  "usersLiked": [
+    "620565c5224185e69a1fc67a"
+  ],
+  "usersDisliked": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620aa7698473d668f8fdf297"
+  },
+  "userId": "620565c5224185e69a1fc67a",
+  "name": "GOCHUJANG",
+  "manufacturer": "COREA",
+  "description": "Le secret de ce plat coréen est l'équilibre parfait entre le sucré, le salé et le piquant. Fabriqué à partir de poudre de riz gluant et de graines de soja fermentées, c'est un condiment populaire. Il est utilisé comme ingrédient pour mariner la viande, ainsi que dans les soupes et les plats d'accompagnement à base de légumes. C'est également l'un des principaux ingrédients du bibimbap, un plat typique composé de riz, de légumes et d'œufs ou de viande. \n",
+  "mainPepper": "BIBIMBAP",
+  "imageUrl": "http://localhost:3000/images/GOCHUJANG.jpg1645130638415.jpg",
+  "heat": 3,
+  "likes": 0,
+  "dislikes": 0,
+  "usersLiked": [],
+  "usersDisliked": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620aa7b88473d668f8fdf29a"
+  },
+  "userId": "620565c5224185e69a1fc67a",
+  "name": "Sriracha",
+  "manufacturer": "THAILANDIA",
+  "description": "La Sriracha est une sauce épicée d'origine thaïlandaise (du nom de la ville de Sriracha sur la côte est), très appréciée non seulement en Asie, mais aussi en Amérique. Aujourd'hui, il est utilisé dans les soupes, avec les œufs et dans les sandwichs. Il est fait avec des piments habanero, thaï et jalapeno, du sucre brun, du vinaigre et peu d'autre chose. Il ressemble, mais seulement en apparence, au ketchup.",
+  "mainPepper": "JALAPENO",
+  "imageUrl": "http://localhost:3000/images/SRIRACHA.jpg1645130651820.jpg",
+  "heat": 7,
+  "likes": 0,
+  "dislikes": 0,
+  "usersLiked": [],
+  "usersDisliked": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620eb9e41108f9dbd187e96e"
+  },
+  "userId": "620565c5224185e69a1fc67a",
+  "name": "Malagueta",
+  "manufacturer": "MEXICO",
+  "description": "tres piquante",
+  "mainPepper": "GINGEMBRE",
+  "imageUrl": "http://localhost:3000/images/graines-de-piment-malagueta.jpeg1645459252757.jpg",
+  "heat": 2,
+  "likes": 0,
+  "dislikes": 0,
+  "usersLiked": [],
+  "usersDisliked": [],
+  "__v": 0
 }]
