@@ -1,0 +1,13 @@
+[{"user":[
+	{    "id":"61c0c2f8d7699dc88c047428",
+         "email":"test5@test.fr",
+         "password":"$2b$10$8uvnZkvhwz2/jky5eyh9ROYA0k86dleV9G1rQzeIz3HWXb5sxlumO"
+      },
+
+      {
+         "id":"6203f080a996fa7fa08434f6",
+         "email":"test@t.com",
+         "password":"$2b$10$GlOsdlMrwdbPvGixaksrl.3OFJz0Nw8w2i9prmrlymZKOvvJnVoFa"
+	  }]
+}]
+

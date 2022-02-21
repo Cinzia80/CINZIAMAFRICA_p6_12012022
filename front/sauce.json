@@ -1,0 +1,83 @@
+[{
+	"sauce": [{
+			"_id": "61c2faf67bed6fbbf40800c5",
+			"userId": "61c0c2f8d7699dc88c047428",
+			"name": "sauce 1",
+			"manufacturer": "dsfsdf",
+			"description": "dsfsdf",
+			"mainPepper": "dfd",
+			"imageUrl": "http://localhost:63752",
+			"heat": 2,
+			"likes": 1,
+			"dislikes": 1,
+			"usersLiked": [
+				"6203f080a996fa7fa08434f6"
+			],
+			"usersDisliked": [
+				"61c2fb077bed6fbbf40800c8"
+			],
+			"__v": 0
+		},
+
+		{
+			"_id": "61c2fe78b9bcb1f4ae57308b",
+			"userId": "61c2fb077bed6fbbf40800c8",
+			"name": "dsfds",
+			"manufacturer": "fddfd",
+			"description": "fdfd",
+			"mainPepper": "dfdf",
+			"imageUrl": "http://localhost:3000/images/test_1640169080603.jpg",
+			"heat": 2,
+			"likes": 1,
+			"dislikes": 0,
+			"usersLiked": [
+				"6203f080a996fa7fa08434f6"
+			],
+			"usersDisliked": [
+				"61c2fb077bed6fbbf40800c8"
+			],
+			"__v": 0
+		},
+
+
+		{
+			"_id": "61c2fe78b9bcb1f4ae57308b",
+			"userId": "61c2fb077bed6fbbf40800c8",
+			"name": "dsfds",
+			"manufacturer": "fddfd",
+			"description": "fdfd",
+			"mainPepper": "dfdf",
+			"imageUrl": "http://localhost:3000/images/test_1640169080603.jpg",
+			"heat": 2,
+			"likes": 1,
+			"dislikes": 0,
+			"usersLiked": [
+				"6203f080a996fa7fa08434f6"
+			],
+			"usersDisliked": [
+				"61c2fb077bed6fbbf40800c8"
+			],
+			"__v": 0
+		},
+
+		{
+			"_id": "61c2fe78b9bcb1f4ae57308c",
+			"userId": "61c2fb077bed6fbbf40800c9",
+			"name": "sauce",
+			"manufacturer": "fddfd",
+			"description": "fdfd",
+			"mainPepper": "dfdf",
+			"imageUrl": "./front/assets/images/sauce.jpg",
+			"heat": 2,
+			"likes": 1,
+			"dislikes": 0,
+			"usersLiked": [
+				"6203f080a996fa7fa08434f6"
+			],
+			"usersDisliked": [
+				"61c2fb077bed6fbbf40800c8"
+			],
+			"__v": 0
+		}
+	]
+}]
